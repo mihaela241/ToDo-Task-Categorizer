@@ -6,7 +6,7 @@ A small machine-learning project that predicts a task's **priority** (`low`, `me
 - `main.py`: trains the models, prints evaluation metrics, and offers an interactive prompt.
 - `data.csv`: examples with task description, priority, and estimated minutes.
 - `requirements.txt`: required Python packages.
-- `Pismena_Teoria.docx` / `.pdf`: project theory document (the original PDF is retained).
+- `Pismena_Teoria.pdf`: project theory document.
 
 ## Setup and run
 1. Install Python 3.9+.
