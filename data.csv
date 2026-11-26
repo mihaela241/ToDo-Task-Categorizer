@@ -1,0 +1,169 @@
+description,priority,expected_minutes
+подготви презентация за историята до петък,high,120
+изпрати кратък имейл на преподавателя,medium,15
+предай проекта утре сутрин,high,180
+подреди бележките от лекцията,low,30
+поправи грешките в програмата за утрешната демонстрация,high,90
+прочети две страници от учебника,low,20
+запиши час за консултация през следващата седмица,medium,10
+завърши домашното по математика за утре,high,60
+архивирай старите файлове,low,25
+направи списък с идеи за ваканцията,low,20
+подготви се за контролното след два дни,high,150
+провери правописа на доклада преди предаване,medium,35
+създай папка за новия учебен предмет,low,10
+обади се за потвърждение на срещата днес,medium,10
+изготви подробен план за груповия проект,high,75
+качѝ готовия файл в платформата до довечера,high,15
+прегледай допълнителните материали когато имаш време,low,45
+резервирай зала за събитието следващия месец,medium,20
+направи упражненията за изпита тази вечер,high,90
+почисти работния плот на компютъра,low,15
+напиши увод и заключение за есето до утре,high,70
+провери графика за следващата седмица,low,10
+подготви въпросите за интервюто утре,high,60
+събери линковете към полезни ресурси,low,25
+отговори на съобщението от екипа,medium,10
+довърши анализа на данните за срещата в петък,high,120
+прегледай календара и отбележи свободните часове,low,15
+плати таксата преди крайния срок утре,high,10
+направи чернова на поканата за събитието,medium,35
+обнови описанието на проекта когато остане време,low,30
+подготви финалната версия на доклада за днес,high,150
+потвърди участието си в срещата,medium,5
+сортирай снимките от последното пътуване,low,40
+реши задачите за подготовка до утре,high,100
+провери дали всички файлове са налични,medium,15
+прочети статията за допълнителна информация,low,35
+изпрати формуляра преди крайния срок,high,10
+организирай работата по екипната задача,medium,60
+преименувай файловете в папката,low,15
+направи обобщение на главата за изпита,high,90
+попитай съученик за липсващите записки,medium,10
+изтрий дублираните чернови,low,15
+завърши дизайна за представянето утре,high,120
+създай напомняне за срещата другата седмица,low,5
+подготви кратък отчет за ръководителя до края на деня,high,50
+провери статуса на поръчката,low,10
+редактирай текста и го изпрати тази вечер,high,45
+обнови списъка със задачи за следващия месец,low,20
+уговори час за групова работа,medium,15
+направи тест на приложението преди представянето,high,90
+събери идеи за подобрение на сайта,low,40
+изпрати поканите за утрешната среща,high,20
+прегледай документа и остави коментари,medium,30
+подреди учебните материали по теми,low,35
+предай формуляра днес до 17 часа,high,10
+направи план за учене за следващата седмица,medium,30
+провери новите съобщения когато имаш възможност,low,10
+подготви демонстрация на програмата за утре,high,100
+създай кратка бележка за следващата среща,low,10
+редактирай презентацията преди часа,high,45
+потвърди получаването на документа,medium,5
+готвене на мусака,high,60
+Study for math exam,high,120
+Reply to important emails,medium,30
+Water the plants,low,10
+Finish AI assignment,high,90
+Call the bank,medium,20
+Clean the kitchen,medium,45
+Walk the dog,low,25
+Prepare presentation,high,75
+Read 20 pages of a book,low,35
+Schedule dentist appointment,medium,15
+Pay electricity bill,high,10
+Organize desktop files,low,40
+пиши чернова на лабораторния доклад,high,100
+провери домашните задачи по физика,high,80
+изпрати благодарствено писмо след интервю,medium,15
+измий чашите и чиниите,low,20
+купи хранителни продукти за седмицата,medium,45
+вземи лекарствата от аптеката,medium,20
+запази билети за театър,medium,20
+сравни офертите за интернет,medium,60
+поправи счупения линк в сайта,high,60
+научи новите термини за урока,high,60
+направи резервно копие на телефона,low,30
+изпрати снимките на роднините,low,15
+планирай бюджета за месеца,medium,45
+попълни данъчния документ,high,90
+събери подписите за документа,medium,30
+приготви обяд за утре,low,40
+изхвърли боклука,low,5
+смени филтъра на прахосмукачката,low,15
+направи резервация за ресторант,medium,10
+провери сроковете на продуктите,low,15
+прегледай договора преди подписване,high,90
+настрой двуфакторна автентикация,medium,20
+обнови операционната система,medium,60
+изготви график за тренировките,low,30
+тренирай за маратона,medium,75
+разходи кучето вечер,low,30
+поръчай нови учебници,medium,15
+направи презентационните слайдове,high,120
+подготви протокол от заседанието,high,45
+прегледай кандидатурите,medium,60
+създай анкета за обратна връзка,medium,45
+анализирай резултатите от анкетата,high,120
+публикувай новината в сайта,medium,20
+изчисти кеша на браузъра,low,10
+проверка на кабелите в лабораторията,medium,25
+създай тестови случаи,high,90
+документирай API функциите,medium,60
+реши проблема с логването,high,120
+създай pull request,medium,20
+Review pull request from teammate,medium,30
+Write unit tests for the new feature,high,90
+Refactor the database query,high,120
+Book a flight for the conference,medium,30
+Renew passport application,high,60
+Pick up package from post office,low,20
+Wash laundry and fold clothes,low,90
+Vacuum living room,low,25
+Make weekly meal plan,low,30
+Submit scholarship application by Friday,high,120
+Study vocabulary for language class,medium,45
+Practice piano for 30 minutes,low,30
+Send meeting agenda to attendees,medium,15
+Prepare quarterly budget report,high,180
+Update project documentation,medium,45
+Check flight check-in,medium,10
+Cancel unused subscription,low,10
+Organize receipts for reimbursement,medium,45
+Clean out email inbox,low,30
+Schedule annual checkup,medium,15
+Fix leaking faucet,high,60
+Plant herbs on balcony,low,30
+Return library books,low,15
+Create backup of work files,medium,30
+Read the research paper and take notes,high,90
+Finish draft of project proposal,high,150
+Ask manager for feedback,medium,10
+Prepare slides for team meeting,high,60
+Sort invoices by month,low,30
+Register for online course,medium,15
+Clean bicycle and check tires,low,30
+Take recycling to collection point,low,10
+Compare laptop specifications,medium,60
+Complete customer support training,medium,90
+Translate the product description,medium,45
+Proofread final essay,high,60
+Make a list of birthday gifts,low,20
+Buy birthday card,low,10
+Prepare for job interview,high,120
+Create slides for science fair,high,90
+Submit expense report,medium,30
+Check tire pressure,low,10
+Update contact information,low,10
+Plan weekend trip itinerary,medium,60
+Review notes from yesterday,low,30
+Complete online quiz before midnight,high,30
+Call plumber to arrange visit,medium,10
+Replace batteries in remote,low,5
+Set up new printer,medium,45
+Investigate error in spreadsheet,high,60
+Draft social media post,medium,30
+Prepare onboarding checklist,medium,60
+Finish reading assigned chapter,medium,45
+Clean and organize storage room,low,120
+make a presentation,medium,45
